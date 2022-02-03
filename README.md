@@ -1,1 +1,1 @@
-# Etherium_SmartContract1
+# Ethereum_SmartContract1
